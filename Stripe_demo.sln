@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stripe_demo", "Stripe_demo\Stripe_demo.csproj", "{706F24D9-9DA0-40E7-8EED-CCAA48591E4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{706F24D9-9DA0-40E7-8EED-CCAA48591E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{706F24D9-9DA0-40E7-8EED-CCAA48591E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{706F24D9-9DA0-40E7-8EED-CCAA48591E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{706F24D9-9DA0-40E7-8EED-CCAA48591E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51CDB0D0-1E02-4800-836E-C1D97D85D104}
+	EndGlobalSection
+EndGlobal

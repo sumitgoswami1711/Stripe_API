@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lT8GVBZd7htvv58pvtSGvuGEIBm/IDibs4VvaILowjY=",
+  "Source": "Stripe_demo",
+  "BasePath": "_content/Stripe_demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
